@@ -1,0 +1,17 @@
+下载文件
+git clone地址/文件名
+git clone git@github.com:FengJiabin1/文件名
+mv 文件名 文件名1
+上传文件
+文件夹
+git init/初始化
+touch xxx(新建文件)
+echo 需要输出的字>文件名
+git add -A(添加所有更改)
+git commit -m "内容"
+git romote add origin git@github.com:FengJiabin/文件
+git push -u origin master(服务器名称 分支名称)
+
+
+
+
