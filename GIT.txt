@@ -11,6 +11,8 @@ git add -A(添加所有更改)
 git commit -m "内容"
 git romote add origin git@github.com:FengJiabin/文件
 git push -u origin master(服务器名称 分支名称)
+mkdir 新建文件夹
+touch 新建文档
 
 
 
